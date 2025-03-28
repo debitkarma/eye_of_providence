@@ -99,20 +99,20 @@ I often pulled clarifiers for the Eye of Providence, and Nick added two cards th
 
 All of this is fun to experiment with. Some things to try:
 
-  1. Start by drawing a card to determine in advance what the columns are going to represent:
-    * Swords - Decision
-    * Rods - Perspectives
-    * Coins - Outcomes
-    * Cups - Considerations
-  1. Change what the three peaks are entirely:
-    * Past, Present, and Future
-    * Theme, Background Context, Advice
-    * What I need to know, why I need to know it, and what do I do about it
-    * Problem, Possible Solution, Warning
-    * Them, Me, and the Situation
-  1. Try adding some connector cards and doing a major arcana only spread
-  1. Try using a divination or themed tarot deck for Cards 10, 13, 14, and 15
-  1. Try using a divination or themed tarot deck for Cards 2 and 3
+1. Start by drawing a card to determine in advance what the columns are going to represent:
+   * Swords - Decision
+   * Rods - Perspectives
+   * Coins - Outcomes
+   * Cups - Considerations
+1. Change what the three peaks are entirely:
+   * Past, Present, and Future
+   * Theme, Background Context, Advice
+   * What I need to know, why I need to know it, and what do I do about it
+   * Problem, Possible Solution, Warning
+   * Them, Me, and the Situation
+1. Try adding some connector cards and doing a major arcana only spread
+1. Try using a divination or themed tarot deck for Cards 10, 13, 14, and 15
+1. Try using a divination or themed tarot deck for Cards 2 and 3
 
 ###### Credits
 
